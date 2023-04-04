@@ -15,10 +15,10 @@
 
 ## ✏️ About
 
-This is the FocusTimer 1.0 project, developed on Stage 5 in the Explorer course at [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat). 
+This is the FocusTimer 1.0 project, developed on Stage 5 in the Explorer course at [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course assignments click [this link](https://github.com/jeadamek/explorer-rocketseat). 
 
 
-In this project, the main goal was to understand and practice JavaScript ES6 Modules. For that it was built a timer, where the user can start, pause and reset the timer, turn on and off the music and set a new timer.
+In this project, the main goal was to understand and practice JavaScript ES6 Modules. For that, a timer was built, where the user can start, pause and reset the timer, turn on and off the music, and set a new timer.
 
 I could practice and study:
 
@@ -28,7 +28,7 @@ I could practice and study:
 - Objects with Factory and Dependency injection.
 
 
-The preview of the project can be seen below:<br/>
+The project's preview can be seen below:<br/>
 
 ### Desktop
 <div align='center'>
@@ -61,6 +61,11 @@ To access the project, click on the link below:
 
 ## 🎨 Layout
 🔗 [View on Figma](https://www.figma.com/file/qavUxD9W8AokhOMuxQbP9Y/Explorer-Stage-05-Projeto-01-(Copy)?node-id=0%3A1&t=KIIlJ0UY72IgQt18-1)
+
+
+## 📝 License
+
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
 
 
 ## 🎯 Author
